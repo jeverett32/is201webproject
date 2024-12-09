@@ -1,0 +1,19 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.site-heading-lower {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.mb-3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#mainNav {
+    background-color: rgba(230, 167, 86, 0.9);
+}
